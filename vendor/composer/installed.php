@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'dev-master',
-    'version' => 'dev-master',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => '26d3373c256694279e5d47db12700bc644157763',
+    'reference' => 'f13cdf74b1ed0fb2f1bce31407dac6b5400a1b92',
     'name' => 'jumptwentyfour/laravel-coding-test',
   ),
   'versions' => 
@@ -415,12 +415,12 @@
     ),
     'jumptwentyfour/laravel-coding-test' => 
     array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => '26d3373c256694279e5d47db12700bc644157763',
+      'reference' => 'f13cdf74b1ed0fb2f1bce31407dac6b5400a1b92',
     ),
     'kodova/hamcrest-php' => 
     array (
@@ -923,6 +923,15 @@
       array (
       ),
       'reference' => 'c6c1022351a901512170118436c764e473f6de8c',
+    ),
+    'spatie/data-transfer-object' => 
+    array (
+      'pretty_version' => '3.7.3',
+      'version' => '3.7.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '341f72c77e0fce40ea2e0dcb212cb54dc27bbe72',
     ),
     'swiftmailer/swiftmailer' => 
     array (
